@@ -1,2 +1,3 @@
-# yatank-hipchat
-HipChat notifications for Yandex.Tank
+yatank-hipchat - плагин для яндекс танка, при использовании которого отправляются сообщения пользователям и/или в комнаты Hipchat.
+
+
